@@ -4,7 +4,7 @@
 
 ---
 
-[Sonoma](https://github.com/keserbaros1/ysa-medikal-tani/blob/main/sonoma.png)
+[Sonoma](./sonoma.png)
 
 ### Intro
 
