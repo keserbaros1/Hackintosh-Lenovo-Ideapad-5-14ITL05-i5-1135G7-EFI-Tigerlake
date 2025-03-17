@@ -4,7 +4,7 @@
 
 ---
 
-[Sonoma](./sonoma.png)
+![Sonoma](./sonoma.png)
 
 ### Intro
 
