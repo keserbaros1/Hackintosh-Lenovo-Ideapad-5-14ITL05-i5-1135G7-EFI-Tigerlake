@@ -1,16 +1,14 @@
-# Hackintosh EFI README
-
-### Lenovo Ideapad 5 14ITL05 (i5-1135G7, Tiger Lake) Mackintosh EFI
+# Lenovo Ideapad 5 14ITL05 (i5-1135G7, Tiger Lake) Mackintosh EFI
 
 ---
 
 ![Sonoma](./sonoma.png)
 
----
-
 I found and tested the EFI files to get a MacOS experience and to attend a mobile app development course using my laptop.
 
-### **System specification**
+---
+
+## **System specification**
 
 ---
 
@@ -20,7 +18,7 @@ I found and tested the EFI files to get a MacOS experience and to attend a mobil
 - RAM: 16GB
 - Storage: 1 TB Nvme
 
-### Working
+## Working
 
 ---
 
@@ -29,7 +27,7 @@ I found and tested the EFI files to get a MacOS experience and to attend a mobil
 - Integrated Webcam
 - Battery Percentage Indication
 
-### Not Working
+## Not Working
 
 ---
 
@@ -40,6 +38,6 @@ I found and tested the EFI files to get a MacOS experience and to attend a mobil
 - Brightness Control
 - Fn Keys (Volume keys work, but the sound itself is not functioning.))
 
-### **Installation Notes**
+## **Installation Notes**
 
 ---
