@@ -3,7 +3,7 @@
 ---
 
 ![Sonoma](./sonoma.png)
-![xcode](./xcode.png
+![xcode](./xcode.png)
 
 I found and tested the EFI files to get a MacOS experience and to attend a mobile app development course using my laptop.
 
